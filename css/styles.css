@@ -562,12 +562,10 @@ footer > div {
         align-items: center;
         margin: 53px 0 47px 0;
     }
-
-
-
+    
     .form-contact input {
         width: 308px;
-        max-width: 80vw;
+        max-width: 70vw;
         margin-bottom: 10px;
     }
 
