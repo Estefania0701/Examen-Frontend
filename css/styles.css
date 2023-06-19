@@ -168,13 +168,13 @@ header .button-contact,
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    padding-block: 40px;
+    padding-block: 20px;
 }
 
 .container-top-differences h3,
 .container-top-differences p {
     color: white;
-    margin-inline: 20px;
+    margin:20px;
     max-width: 450px;
 }
 
@@ -478,11 +478,15 @@ footer>div {
         margin: 0;
     }
 
+    .banner-right p {
+        margin-left: 20px;
+    }
+
     .container-top-differences {
         align-items: flex-start;
         background-color: var(--celeste-primario);
         flex-direction: column;
-        padding: 40px 20px;
+        padding: 40px 40px 40px 20px;
     }
 
     .container-top-differences h3 {
